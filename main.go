@@ -10,10 +10,10 @@ import (
 	"strings"
 	"time"
 
-	. "github.com/Monibuca/engine/v3"
-	"github.com/Monibuca/utils/v3"
-	"github.com/Monibuca/utils/v3/codec"
-	"github.com/Monibuca/utils/v3/codec/mpegts"
+	. "github.com/wgsP/engine/v3"
+	"github.com/wgsP/utils/v3"
+	"github.com/wgsP/utils/v3/codec"
+	"github.com/wgsP/utils/v3/codec/mpegts"
 )
 
 var config = struct {
